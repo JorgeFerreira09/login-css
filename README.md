@@ -2,5 +2,4 @@
 
 * Objetivo é treinar conceitos aprendidos em CSS esses dias 
 
-![image](https://user-images.githubusercontent.com/106722825/201797551-0bb5c019-e184-4778-b323-430563a917a4.png)
-
+![image](https://user-images.githubusercontent.com/106722825/201797842-e8b7091f-44cc-4ef0-93c0-3581befcd98a.png)
